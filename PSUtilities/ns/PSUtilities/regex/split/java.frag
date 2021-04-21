@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">split</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gVG9uaSBJbW1vcmRpbm8NCg0KLy8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vy
+c29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpTdHJpbmcgcmVnZXggPSBJRGF0YVV0aWwuZ2V0
+U3RyaW5nKHBpcGVsaW5lQ3Vyc29yLCAicmVnZXgiKTsNClN0cmluZyBpbnB1dCA9IElEYXRhVXRp
+bC5nZXRTdHJpbmcocGlwZWxpbmVDdXJzb3IsICJpbnB1dCIpOw0KcGlwZWxpbmVDdXJzb3IuZGVz
+dHJveSgpOw0KCmlmKGlucHV0ID09IG51bGwgfHwgIiIuZXF1YWxzKGlucHV0KSkKCXJldHVybjsK
+DQpQYXR0ZXJuIHBhdHRlcm4gPSBQYXR0ZXJuLmNvbXBpbGUocmVnZXgpOw0KDQpTdHJpbmcgaXRl
+bXNbXSA9IHBhdHRlcm4uc3BsaXQoaW5wdXQpOw0KZm9yIChpbnQgaSA9IDA7IGkgPCBpdGVtcy5s
+ZW5ndGg7IGkrKykNCnsNCiAgU3lzdGVtLm91dC5wcmludGxuKGl0ZW1zW2ldKTsNCn0NCg0KLy8g
+cGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yXzEgPSBwaXBlbGluZS5nZXRDdXJz
+b3IoKTsNCklEYXRhVXRpbC5wdXQocGlwZWxpbmVDdXJzb3JfMSwgIml0ZW1zIiwgaXRlbXMpOw0K
+cGlwZWxpbmVDdXJzb3JfMS5kZXN0cm95KCk7DQo=</value>
+</Values>
